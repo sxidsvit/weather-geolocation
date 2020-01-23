@@ -9,4 +9,4 @@
 3. Работа с cаnvas: установка анимированной иконки [Skycons](https://github.com/darkskyapp)
 4. Совершенствование умений и навыков в написании программ на JavaScript с использованием новых стандартов языка
 
-[_Посмотреть сайт_](http://git.lekua.in.ua/weather-geolocation/)
+[_Посмотреть сайт_](https://git.lekua.in.ua/weather-geolocation/)
